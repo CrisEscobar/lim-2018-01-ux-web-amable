@@ -97,16 +97,20 @@ Ya en la penúltima sección decidimos colocar el blog, ya que es importante par
 
 ## Testing
 
-Realizamos un testing en total con 8 personas de la industria, las cuales nos dieron feedback y observaciones sobre el producto que estábamos construyendo. Entre las primeras reacciones pudimos obtener los siguientes comentarios:
+Realizamos un testing en total con 8 personas de la industria, las cuales nos dieron feedback y observaciones sobre el producto que estábamos construyendo. Entre las primeras reacciones pudimos obtener los siguientes comentarios, un ejemplo es el siguiente:
 > “Percibo que amable me va a dar un trato diferente, me da confianza. Sin embargo por mi experiencia creo que los clientes pueden confundir los conceptos de interfaz así como los de experiencia de usuario, podrían explicarlo de una manera más amigable”. 
 
 ![test](https://crisescobar.files.wordpress.com/2018/10/44695995_10160844359900265_5653927298148073472_o.jpg)
+
+Cabe resaltar, que realizamos iteraciones posteriores.
 
 ## Diagrama de flujo
 [Haz click para ver el diagrama de flujo]()
 
 ## Documentación en Zeplin 
 [Haz click y mira el código para los desarrolladores]()
+
+!(https://crisescobar.files.wordpress.com/2018/10/emp.png)
 
 
 
