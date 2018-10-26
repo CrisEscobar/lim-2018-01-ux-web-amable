@@ -52,6 +52,13 @@ Realizamos técnicas y dinámicas de ideación de propuestas como moodboards, ho
 ![brain](https://crisescobar.files.wordpress.com/2018/10/img_20181016_154229138.jpg)
 
 ## Propuesta de valor 
+
+¿En qué se diferencia Amable de las otras consultoras?
+
+Decidimos definir en un parrafo un el valor que puede brindar Amable al público en general, destacando su profesionalismo, el equipo, sus servicios y metodología, los cuales tratamos de plasmar en la página web.
+
+> "Tenemos 14 años de experiencia trabajando con un equipo de profesionales que diseñan soluciones efectivas y experiencias memorables basadas en estrategias innovadoras que generan valor a tus proyectos".
+
 ## Mapa de navegación
 
 
