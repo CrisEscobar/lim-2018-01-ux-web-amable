@@ -1,11 +1,11 @@
 # Rediseño de la web corporativa de Amable
-Realizado por la consultora Emphaty UX
+Realizado por la consultora Emphaty UX.
 
 
-## Preámbulo
+## El cliente
 
 [Amable](http://www.amable.com/) es una empresa consultora de Diseño de Experiencia de
-Usuario con  presencia en Chile, Ecuador y Perú.
+Usuario con más de 14 años de experiencia y con presencia en Chile, Ecuador y Perú.
 
 La web corporativa [(www.amable.com)](http://www.amable.com/) requiere una actualización
 de emergencia debido a que la versión anterior fue recientemente dada de baja por un hackeo
@@ -13,22 +13,16 @@ del servidor. La versión actual es un "parche" temporal rápido, hecho en un pa
 y que solamente muestra un resumen de lo que es Amable.
 
 ## El reto
-Diseñar la experiencia de usuario y la interfaz de una nueva página web para amable.
+Diseñar la experiencia de usuario y la interfaz de una nueva página web para Amable.
 
 
-### Recursos
-En los siguientes links encontrarás información sobre:
-- [La empresa](documentos/presentacion_amable.pdf)
-- [El consolidado investigación y descubrimiento realizados](documentos/research_web_amable.pdf)
+### Nuestro objetivo general
+Diseñar la experiencia de usuario de la nueva web de amable con el fin de crear una plataforma web que comunique de manera efectiva y fiel  la empresa y que conecte con sus usuarios.
 
+### Objetivos específicos
+- Dar a conocer la calidad de los proyectos que realizan mostrando su posicionamiento.
+- Resaltar el equipo amable, que abarca trayectoria internacional y miembros locales.
 
-## Objetivos
-- Enfrentarse a un proyecto real, con un propósito real y con interlocutores
-que cumplirán genuinamente el rol de _stakeholders_ (pues lo son).
-
-- Relacionarse con documentación real de una investigación en Diseño de
-Experiencia de Usuario, la cual sería tomada como insumo para continuar
-con el proyecto.
 
 - Terminar el ciclo con actividades reales de investigación/validación en campo: prototipado y testeos.
 
