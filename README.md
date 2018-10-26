@@ -55,11 +55,30 @@ Realizamos técnicas y dinámicas de ideación de propuestas como moodboards, ho
 
 ¿En qué se diferencia Amable de las otras consultoras?
 
-Decidimos definir en un parrafo un el valor que puede brindar Amable al público en general, destacando su profesionalismo, el equipo, sus servicios y metodología, los cuales tratamos de plasmar en la página web.
+Decidimos definir en un parrafo el valor que puede brindar Amable al público en general, destacando su profesionalismo, el equipo, sus servicios y metodología, los cuales tratamos de plasmar en la página web.
 
 > "Tenemos 14 años de experiencia trabajando con un equipo de profesionales que diseñan soluciones efectivas y experiencias memorables basadas en estrategias innovadoras que generan valor a tus proyectos".
 
+Esta propuesta de valor ha sido considerada en la toma de decisiones de las secciones y contenido de la página web.
+
 ## Mapa de navegación
+
+## Secciones
+Utilizamos un landing page para colocar las secciones más destacadas de la página web. Comenzamos con un menú que incluye:
+1) Logo de Amable - Al hacerle click desde cualquier vista llevará al landing page.
+2) Nosotros
+3) Servicios
+4) Proyectos
+5) Blog
+
+Continuamos con la primera sección que incluye un slogan y una pequeña descripción de lo que realiza amable, esta sección incluye dos botones de acceso rápido a proyectos y equipo.
+Luego, decidimos incluir una sección con data cuantitativa sobre la consultora, con el objetivo de que el usuario tenga una noción de la experiencia de Amable en conjunto de sus clientes y proyectos.
+
+En la siguiente sección se definen los servicios que ofrecen. Incluimos la opción de hover a cada servicio para que el usuario tenga información rápida de lo que se trata cada servicio.
+Ante ello, decidimos colocar a continuación los clientes con los que trabaja Amable, para dar un poco de solidez a los servicios mencionados anteriormente y sea como una especie de validación de ellos. Cabe resaltar que colocamos logos de diferentes rubros, ya que en un inicio se colocó solo a los de banca, sin embargo en el test los usuarios pensaban que Amable solo tenía clientes del sector financiero.
+
+
+
 
 
 ## Prototipo y wireframe
@@ -68,9 +87,15 @@ Decidimos definir en un parrafo un el valor que puede brindar Amable al público
 
 ## Testing
 > "". 
+
 ## Prototipo interactivo
+[zeplin]()
+
 ## Diagrama de flujo
+[zeplin]()
+
 ## Documentación en Zeplin 
+[zeplin]()
 
 
 
