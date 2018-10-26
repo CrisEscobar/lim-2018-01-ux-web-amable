@@ -1,4 +1,6 @@
 # Rediseño de la web corporativa de Amable
+Realizado por la consultora Emphaty UX
+## Preámbulo
 
 ## Preámbulo
 
