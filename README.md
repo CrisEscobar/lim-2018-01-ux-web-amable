@@ -37,7 +37,7 @@ En resumen:
 
 ### User personas:
 
-(imagen user personas) 
+![UserPersonas](https://crisescobar.files.wordpress.com/2018/10/user-p.png)
 
 ### Conceptualización
 
