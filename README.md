@@ -63,6 +63,8 @@ Esta propuesta de valor ha sido considerada en la toma de decisiones de las secc
 
 ## Mapa de navegación
 
+![mapaDeSitio](https://crisescobar.files.wordpress.com/2018/10/mapa-de-sitio.png)
+
 ## Secciones
 Utilizamos un landing page para colocar las secciones más destacadas de la página web. Comenzamos con un menú que incluye:
 1) Logo de Amable: Al hacerle click desde cualquier vista llevará al landing page.
@@ -110,7 +112,7 @@ Realizamos un testing en total con 8 personas de la industria, las cuales nos di
 Cabe resaltar, que realizamos iteraciones posteriores.
 
 ## Diagrama de flujo
-[Haz click para ver el diagrama de flujo]()
+[Haz click para ver el diagrama de flujo](https://userflows.marvelapp.com/a42f8ch)
 
 ## Documentación en Zeplin 
 [Haz click y mira el código para los desarrolladores]()
