@@ -27,14 +27,19 @@ Diseñar la experiencia de usuario de la nueva web de amable con el fin de crear
 - Componer una nueva interfaz web siguiendo tendencias actuales (UI) mostrándoles de manera creativa.
 
 ## ¿Cómo comenzó nuestro proceso UX? 
-Obtuvimos de parte de Amable toda la investigación realizada a los posibles usuarios del producto, (ver research en este link) en donde pudimos identificar las observaciones y los insights de los entrevistados; en resumen:
+Obtuvimos de parte de Amable toda la investigación realizada a los posibles usuarios del producto, (ver research en este  [link](https://github.com/CrisEscobar/lim-2018-01-ux-web-amable/blob/master/documentos/research_web_amable.pdf)) en donde pudimos identificar las observaciones y los insights de los entrevistados.
+
+En resumen:
+
 1) Los usuarios tienen un concepto difuso sobre servicios de innovación.
 2) Los usuarios tienen la necesidad de trabajar con expertos para compartirlos con otras áreas de la empresa
 3) El atributo más relevante que consideran son las credenciales individuales más que como empresa.
 
-User personas:
+### User personas:
 
 (imagen user personas) 
+
+### Conceptualización
 
 Asimismo, conceptualizamos a Amable con un personaje representativo que consideramos cumple con las características de la consultora:
 
@@ -45,10 +50,16 @@ Asimismo, conceptualizamos a Amable con un personaje representativo que consider
 Realizamos técnicas y dinámicas de ideación de propuestas como moodboards, how might we? y braninstorming las cuales nos ayudaron en el proceso de ideación de la propuesta. 
 
 
-
+## Propuesta de valor 
 ## Mapa de navegación
-## Diagrama de flujo
+
+
 ## _Wireframes_
+## Testing
+> "". 
 ## Prototipo interactivo
+## Diagrama de flujo
 ## Documentación en Zeplin 
-### Hacker Edition
+
+
+
