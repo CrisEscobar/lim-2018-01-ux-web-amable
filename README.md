@@ -110,7 +110,7 @@ Cabe resaltar, que realizamos iteraciones posteriores.
 ## Documentación en Zeplin 
 [Haz click y mira el código para los desarrolladores]()
 
-!(https://crisescobar.files.wordpress.com/2018/10/emp.png)
+![emp](https://crisescobar.files.wordpress.com/2018/10/emp.png)
 
 
 
