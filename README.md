@@ -1,6 +1,6 @@
 # Rediseño de la web corporativa de Amable
 Realizado por la consultora Emphaty UX
-## Preámbulo
+
 
 ## Preámbulo
 
@@ -12,15 +12,9 @@ de emergencia debido a que la versión anterior fue recientemente dada de baja p
 del servidor. La versión actual es un "parche" temporal rápido, hecho en un par de días,
 y que solamente muestra un resumen de lo que es Amable.
 
-## Introducción
+## El reto
+Diseñar la experiencia de usuario y la interfaz de una nueva página web para amable.
 
-Este proyecto te da la oportunidad de resolver un problema 100% real de
-una consultora especializada en Diseñar Experiencias de Usuario.
-
-El equipo de Amable Perú ya ha iniciado el _research_ y tiene avances en
-_insights_ para el rediseño de la web. El mismo equipo iniciará la
-especificación (Arquitectura de Información, Diseño de Interacción,
-prototipado, testeo y UI) de la nueva web dentro de las próximas semanas.
 
 ### Recursos
 En los siguientes links encontrarás información sobre:
