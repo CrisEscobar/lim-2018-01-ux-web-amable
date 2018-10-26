@@ -70,12 +70,19 @@ Utilizamos un landing page para colocar las secciones más destacadas de la pág
 3) Servicios
 4) Proyectos
 5) Blog
+6) Contáctanos
 
 Continuamos con la primera sección que incluye un slogan y una pequeña descripción de lo que realiza amable, esta sección incluye dos botones de acceso rápido a proyectos y equipo.
 Luego, decidimos incluir una sección con data cuantitativa sobre la consultora, con el objetivo de que el usuario tenga una noción de la experiencia de Amable en conjunto de sus clientes y proyectos.
 
-En la siguiente sección se definen los servicios que ofrecen. Incluimos la opción de hover a cada servicio para que el usuario tenga información rápida de lo que se trata cada servicio.
-Ante ello, decidimos colocar a continuación los clientes con los que trabaja Amable, para dar un poco de solidez a los servicios mencionados anteriormente y sea como una especie de validación de ellos. Cabe resaltar que colocamos logos de diferentes rubros, ya que en un inicio se colocó solo a los de banca, sin embargo en el test los usuarios pensaban que Amable solo tenía clientes del sector financiero.
+En la siguiente sección se definen los servicios que ofrecen. Incluimos la opción de hover a cada servicio para que el usuario tenga información rápida de lo que se trata cada servicio, ya que como insight tenemos que el usuario no identifica claramente los conceptos de los servicios.
+
+Ante ello, decidimos colocar a continuación los clientes con los que trabaja Amable, para dar un poco de solidez y aval a los servicios mencionados anteriormente y sea como una especie de validación de ellos. Cabe resaltar que colocamos logos de diferentes rubros, ya que en un inicio se colocó solo a los de banca, sin embargo en el test los usuarios pensaban que Amable solo tenía clientes del sector financiero.
+
+Posteriormente incluimos al equipo de Amable, con un hover en el cual incluye una pequeña reseña de cada miembro de Amable con un ícono de enlace a sus Linkedin, con el objetivo de que los usuarios conozcan más acerca del equipo con el que trabajan. 
+En esta sección decidimos incluir un elemento interactivo que convierte a las personas en personajes animados, esto con el fin de querer ver al equipo de Amable como personas creativas y asimismo para generar un factor de recordación entre los usuarios, ya que en este caso son los usuarios los que hacen una búsqueda de diferentes páginas de agencias y consultoras para finalmente escoger una. Nosotras queríamos incluir un factor que haga que los usuarios recuerden a Amable a través de este elemento.
+
+
 
 
 
@@ -86,16 +93,18 @@ Ante ello, decidimos colocar a continuación los clientes con los que trabaja Am
 ![Prots](https://crisescobar.files.wordpress.com/2018/10/prot.png)
 
 ## Testing
+
+Realizamos un testing en total con 8 personas de la industria, las cuales nos dieron feedback y observaciones sobre el producto que estábamos construyendo. Entre las primeras reacciones pudimos obtener los siguientes comentarios:
 > "". 
 
 ## Prototipo interactivo
-[zeplin]()
+[Haz click para ir al prototipo de alta fidelidad en Figma]()
 
 ## Diagrama de flujo
-[zeplin]()
+[Haz click y mira el código para ver el diagrama de flujo]()
 
 ## Documentación en Zeplin 
-[zeplin]()
+[Haz click y mira el código para los desarrolladores]()
 
 
 
