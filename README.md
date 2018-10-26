@@ -26,18 +26,13 @@ Diseñar la experiencia de usuario de la nueva web de amable con el fin de crear
 - Definir los servicios que ofrecen, destacando la transformación, creatividad e innovación.
 - Componer una nueva interfaz web siguiendo tendencias actuales (UI) mostrándoles de manera creativa.
 
+## ¿Cómo comenzó nuestro proceso UX? 
+Obtuvimos de parte de Amable toda la investigación realizada a los posibles usuarios del producto, (ver en este link) en donde pudimos identificar las observaciones y los insights de los entrevistados. En resumen:
+1) Los usuarios tienen un concepto difuso sobre servicios de innovación.
+2) Los usuarios tienen la necesidad de trabajar con expertos para compartirlos con otras áreas de la empresa
+3) El atributo más relevante que consideran son las credenciales individuales más que como empresa
 
 
-
-
-- Terminar el ciclo con actividades reales de investigación/validación en campo: prototipado y testeos.
-
-## Consideraciones generales
-
-- Este proyecto se debe "resolver" en equipos de 3.
-- El plazo es de 2 semanas.
-- Tendrás asesoría de alguien de Amable y a ellos deberás presentar y sustentar tu propuesta
-  tu propuesta de solución.
 
 ## Entregables
 
