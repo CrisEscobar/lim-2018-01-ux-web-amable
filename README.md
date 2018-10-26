@@ -65,12 +65,17 @@ Esta propuesta de valor ha sido considerada en la toma de decisiones de las secc
 
 ## Secciones
 Utilizamos un landing page para colocar las secciones más destacadas de la página web. Comenzamos con un menú que incluye:
-1) Logo de Amable - Al hacerle click desde cualquier vista llevará al landing page.
-2) Nosotros
-3) Servicios
-4) Proyectos
-5) Blog
-6) Contáctanos
+1) Logo de Amable: Al hacerle click desde cualquier vista llevará al landing page.
+
+2) Nosotros: Esta sección abarca información para conocer un poco más acerca de Amable y su metodología. Incluimos algunos gráficos e íconos representativos que transmiten lo que queremos informar.
+
+3) Servicios: En esta sección el usuario va a poder conocer un poco más sobre los servicios de Amable, asimismo quisimos incluir una pequeña información sobre "¿Por qué invertir en este servicio?", ya que muchas empresas quieren ver en qué le va a convenir optar por tales servicios.
+
+4) Proyectos: En esta sección el usuario va a poder ver con más detalles los proyectos de Amable.
+
+5) Blog: En esta parte al usuario lo va a dirigir a una ventana nueva al blog de Capire.info
+
+6) Contáctanos: Dirigirá al usuario al landing page que incluye un formulario y la información de contacto
 
 Continuamos con la primera sección que incluye un slogan y una pequeña descripción de lo que realiza amable, esta sección incluye dos botones de acceso rápido a proyectos y equipo.
 Luego, decidimos incluir una sección con data cuantitativa sobre la consultora, con el objetivo de que el usuario tenga una noción de la experiencia de Amable en conjunto de sus clientes y proyectos.
@@ -110,7 +115,6 @@ Cabe resaltar, que realizamos iteraciones posteriores.
 ## Documentación en Zeplin 
 [Haz click y mira el código para los desarrolladores]()
 
-![emp](https://crisescobar.files.wordpress.com/2018/10/emp.png)
 
 
 
