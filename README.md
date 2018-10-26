@@ -49,6 +49,7 @@ Asimismo, conceptualizamos a Amable con un personaje representativo que consider
 
 Realizamos técnicas y dinámicas de ideación de propuestas como moodboards, how might we? y braninstorming las cuales nos ayudaron en el proceso de ideación de la propuesta. 
 
+![brain](https://crisescobar.files.wordpress.com/2018/10/img_20181016_154229138.jpg)
 
 ## Propuesta de valor 
 ## Mapa de navegación
