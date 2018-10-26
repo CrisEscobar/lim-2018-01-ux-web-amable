@@ -43,7 +43,7 @@ En resumen:
 
 Asimismo, conceptualizamos a Amable con un personaje representativo que consideramos cumple con las características de la consultora:
 
-(imagen mario bross
+![Mario](https://crisescobar.files.wordpress.com/2018/10/marito.png)
 
 ## Ideación
 
@@ -54,7 +54,10 @@ Realizamos técnicas y dinámicas de ideación de propuestas como moodboards, ho
 ## Mapa de navegación
 
 
-## _Wireframes_
+## Prototipo y wireframe
+
+![Prots](https://crisescobar.files.wordpress.com/2018/10/prot.png)
+
 ## Testing
 > "". 
 ## Prototipo interactivo
