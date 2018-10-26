@@ -97,7 +97,7 @@ Ya en la penúltima sección decidimos colocar el blog, ya que es importante par
 ![Prots](https://crisescobar.files.wordpress.com/2018/10/prot.png)
 
 ## Prototipo interactivo
-[Haz click para ir al prototipo de alta fidelidad en Marvel]()
+[Haz click para ir al prototipo de alta fidelidad en Marvel](https://marvelapp.com/a42f8ch/screen/49564446)
 
 
 ## Testing
